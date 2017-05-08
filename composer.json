@@ -10,7 +10,7 @@
         "api"
     ],
     "repositories": [
-        { "type": "vsc", "url": "https://github.com/crowdcube/dropbox-api" }
+        { "type": "vcs", "url": "https://github.com/crowdcube/dropbox-api" }
     ],
     "homepage": "https://github.com/spatie/flysystem-dropbox",
     "license": "MIT",

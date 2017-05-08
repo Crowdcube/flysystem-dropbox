@@ -1,5 +1,5 @@
 {
-    "name": "spatie/flysystem-dropbox",
+    "name": "crowdcube/flysystem-dropbox",
     "description": "Flysystem Adapter for the Dropbox v2 API",
     "keywords": [
         "spatie",
@@ -23,7 +23,7 @@
         }
     ],
     "require": {
-        "php": "^5.5 || ^7.0",
+        "php": "~5.5 || ~7.0",
         "league/flysystem": "^1.0",
         "crowdcube/dropbox-api": "^1.0"
     },

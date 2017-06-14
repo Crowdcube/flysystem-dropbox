@@ -249,7 +249,7 @@ class DropboxAdapter extends AbstractAdapter
         return '/'.trim($path, '/');
     }
 
-    public function getClient(): Client
+    public function getClient()
     {
         return $this->client;
     }
